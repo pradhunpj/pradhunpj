@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently interning at Prodigy Infotech<br>👯 I’m looking to collaborate on projects related to Python Development or Cybersecurity<br>🤝 I’m looking for help with gaining deeper insights into Cybersecurity practices<br>🌱 I’m currently learning basics of Cybersecurity<br>💬 Ask me about my experience as an intern<br>⚡ Fun fact : joined a cybersecurity course to learn how to protect my data, but now I'm jus paranoid about every Wifi network I see.
+🔭 Intern at Prodigy Infotech<br>👯 Ready to collaborate on projects related to Python Development or Cybersecurity<br>🤝 Gaining deeper insights into Cybersecurity practices<br>🌱 Currently learning basics of Cybersecurity<br>💬 Ask me about my experience as an Intern<br>⚡ Fun fact : joined a cybersecurity course to learn how to protect my data, but now I'm jus paranoid about every Wifi network I see.
 
 
 ## 🌐 Socials:
